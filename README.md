@@ -768,6 +768,6 @@ Access monitoring dashboard at `http://localhost:9000` to view real-time executi
 
 ## Repository
 
-**GitHub Repository**: [https://github.com/Gotham-Zolio/so101-grasp-cube](https://github.com/Gotham-Zolio/so101-grasp-cube)
+**GitHub Repository**: [https://github.com/tactino/so101-grasp-cube](https://github.com/tactino/so101-grasp-cube)
 
 This repository contains all the code, documentation, and trained models for the SO-101 ACT grasping project.
